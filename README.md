@@ -1,3 +1,3 @@
 # Ceci est un readme
-
-feature 2
+feature1
+feature2
